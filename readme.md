@@ -1,3 +1,5 @@
+# Web API with .NET
+
 Using the tutorial `Create a web API with ASP.NET Core` written by Microsoft, I have created a simple API to handle a Todo list. 
 
 The API can handle the below requests:
@@ -8,3 +10,6 @@ The API can handle the below requests:
 | POST /api/todoitems  | Add a new item|
 | PUT /api/todoitems/{id}     | Update an existing item  |
 | DELETE /api/todoitems/{id}   | Delete an item|
+
+## Minimum Versions
+.Net 6.0
